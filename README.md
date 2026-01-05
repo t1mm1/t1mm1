@@ -6,8 +6,6 @@ Senior Drupal Developer with 15+ years of experience building scalable, modern w
 
 ## Tech Stack
 
-<img src="https://img.shields.io/badge/Drupal-11-0678BE?logo=drupal&logoColor=white" alt="Drupal" />
-
 ![Drupal](https://img.shields.io/badge/Drupal-11-0678BE?logo=drupal&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
