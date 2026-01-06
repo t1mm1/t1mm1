@@ -4,6 +4,13 @@
 
 Senior Drupal Developer with 15+ years of experience building scalable, modern web applications. I'm always open for new connections and contacts. 
 
+## Companies
+
+![Adyax](https://img.shields.io/badge/Adyax-0891B2?style=flat-square&logo=drupal&logoColor=white)
+![Smile Open Source](https://img.shields.io/badge/Smile_Open_Source-EA580C?style=flat-square&logo=opensourceinitiative&logoColor=white)
+![Ciklum](https://img.shields.io/badge/Ciklum-7C3AED?style=flat-square&logo=moleculer&logoColor=white)
+![IDX](https://img.shields.io/badge/IDX-DC2626?style=flat-square&logo=databricks&logoColor=white)
+
 ## Tech Stack
 
 ![Drupal](https://img.shields.io/badge/Drupal-11-0678BE?style=flat-square&logo=drupal&logoColor=white)
@@ -27,11 +34,6 @@ Senior Drupal Developer with 15+ years of experience building scalable, modern w
 ![DDEV](https://img.shields.io/badge/DDEV-0D77B4?style=flat-square&logo=ddev&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Memcached](https://img.shields.io/badge/Memcached-00758F?style=flat-square)
-
-![Adyax](https://img.shields.io/badge/Adyax-00758F?style=flat-square)
-![Smile Open Source](https://img.shields.io/badge/SmileOpenSource-4479A1?style=flat-square)
-![Ciklum](https://img.shields.io/badge/Ciklum-1572B6?style=flat-square)
-![IDX](https://img.shields.io/badge/IDX-0769AD?style=flat-square)
 
 **I specialize in:**
 - Enterprise-level platforms serving millions of users
