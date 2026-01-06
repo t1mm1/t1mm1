@@ -58,13 +58,6 @@ Senior Drupal Developer with 15+ years of experience building scalable, modern w
 
 ## 🛒 Commerce Modules
 
-> ### [EC Cart View Enhancements](https://github.com/t1mm1/ec-cart-enhancement)
-> Enhanced cart modal popup with customizable templates and Commerce License support.  
-> 
-> ![Drupal](https://img.shields.io/badge/Drupal-11-0678BE?style=flat-square) 
-> ![Commerce](https://img.shields.io/badge/Commerce-orange?style=flat-square)
-> ![Checkout](https://img.shields.io/badge/Checkout-red?style=flat-square)
-
 > ### [EC Payment Free](https://github.com/t1mm1/ec-payment-free)
 > Free payment gateway for testing and demonstrations - auto-approves payments without billing info.  
 > 
@@ -72,6 +65,19 @@ Senior Drupal Developer with 15+ years of experience building scalable, modern w
 > ![Commerce](https://img.shields.io/badge/Commerce-orange?style=flat-square)
 > ![Checkout](https://img.shields.io/badge/Checkout-red?style=flat-square)
 > ![Payment](https://img.shields.io/badge/Payment_Gateway-green?style=flat-square)
+
+> ### [EC Cart View Enhancements](https://github.com/t1mm1/ec-cart-enhancement)
+> Enhanced cart modal popup with customizable templates and Commerce License support.
+>
+> ![Drupal](https://img.shields.io/badge/Drupal-11-0678BE?style=flat-square)
+> ![Commerce](https://img.shields.io/badge/Commerce-orange?style=flat-square)
+> ![Checkout](https://img.shields.io/badge/Checkout-red?style=flat-square)
+
+> ### [EC License Quantity](https://github.com/t1mm1/ec-license-quantity)
+> Enables quantity management and removes limitation, allowing customers to purchase multiple quantities of the same licensed product.
+>
+> ![Drupal](https://img.shields.io/badge/Drupal-11-0678BE?style=flat-square)
+> ![Commerce](https://img.shields.io/badge/Commerce-orange?style=flat-square)
 
 > ### [EC Product Variation Radio Widget](https://github.com/t1mm1/ec-radio-widget)
 > Radio button widget for product variations with enhanced customization and flexible labels.  
