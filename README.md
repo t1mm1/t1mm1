@@ -28,6 +28,10 @@ Senior Drupal Developer with 15+ years of experience building scalable, modern w
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Memcached](https://img.shields.io/badge/Memcached-00758F?style=flat-square)
 
+![Adyax](https://img.shields.io/badge/Adyax-00758F?style=flat-square)
+![Smile Open Source](https://img.shields.io/badge/SmileOpenSource-4479A1?style=flat-square)
+![Ciklum](https://img.shields.io/badge/Ciklum-1572B6?style=flat-square)
+![IDX](https://img.shields.io/badge/IDX-0769AD?style=flat-square)
 
 **I specialize in:**
 - Enterprise-level platforms serving millions of users
