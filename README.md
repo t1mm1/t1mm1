@@ -154,6 +154,13 @@ Senior Drupal Developer with 15+ years of experience building scalable, modern w
 
 ## ✏️ Content Editing Tools
 
+> ### [Tabs Icons UI](https://github.com/t1mm1/tabs-icons-ui)
+> Replace entity local task tabs with icons.
+>
+> ![Drupal](https://img.shields.io/badge/Drupal-11-0678BE?style=flat-square)
+> ![UI](https://img.shields.io/badge/User_Interface-important?style=flat-square)
+> ![Content](https://img.shields.io/badge/Content_Management-lightgrey?style=flat-square)
+
 > ### [Node Lock](https://github.com/t1mm1/node-lock)
 > Lock nodes from edit/delete operations with admin listing.  
 > 
